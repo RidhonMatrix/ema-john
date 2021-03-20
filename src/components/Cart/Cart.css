@@ -1,0 +1,14 @@
+.cart-body p{
+     line-height: 30%;
+}
+.cart-body h3{
+    text-align: center;
+}
+.cart-body h4{
+    font-weight: 400;
+    text-align: center;
+}
+.total{
+    font-weight: 650;
+    color: orangered;
+}
